@@ -1,0 +1,17 @@
+#result {
+  border: black 1px solid;
+  height: 20px;
+  background-color: azure;
+}
+
+#form > * {
+  margin: 1vw;
+}
+
+#form {
+  width: 90%;
+
+  height: auto;
+  display: flex;
+  flex-direction: column;
+}
